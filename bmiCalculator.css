@@ -1,0 +1,56 @@
+.box{
+    
+    max-width: 420px;
+    text-align: center;
+    margin: auto;
+    color: white;
+    background-color: rgb(59, 41, 87);
+    padding: 16px;
+    border-radius: 38px;
+}
+h1{
+    
+    font-size: 36px;
+    padding: 20px;
+    font-weight: bold;
+
+}
+.info{
+    background-color: #020e3d;
+    padding: 16px;
+    font-size: 15px;
+    border-bottom-left-radius: 38px;
+    border-bottom-right-radius: 38px;
+}
+h2{    
+    font-size: 22px;
+    color: mediumorchid;
+}
+h3{
+    
+    color: lightpink;
+
+}
+.colour{
+    color: red;
+}
+.success{
+    
+    color: limegreen;
+
+}
+.app{
+    min-height: 100vh;
+    background-image: url(/sfsites/c/resource/BMIbackground);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+label{
+    color: white;
+    font-size: 20px;
+}
+.custom-button{
+    font-size: 16px;
+    padding: 12px;
+    background: rgb(233, 240, 178);
+}
