@@ -1,2 +1,2 @@
 # BMICalculator 
-This App is create via LWC,Salesforce.
+This App is created via LWC,Salesforce.
