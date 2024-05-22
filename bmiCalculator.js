@@ -29,13 +29,13 @@ calculate(){
     console.log ('BMI value is : ',this.bmiValue)
     
     if(this.bmiValue<18.5){
-        this.result = "under weight"
+        this.result = "Under Weight"
     }else if(this.bmiValue>=18.5 && this.bmiValue<25) {
-        this.result = "healthy"
+        this.result = "Healthy"
     }else if(25 >=this.bmiValue<30 ){
-        this.result = "over weight"
+        this.result = "Over Weight"
     }else{
-        this.result="obesse"
+        this.result="Obese"
     }
 
     console.log ('result is : ',this.result )
